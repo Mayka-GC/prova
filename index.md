@@ -4,5 +4,6 @@
 
 
 
-- Puedes visitar mi repositorio prova aquí: [Ver Curriculum de Mayka](curriculum.md)
+- Puedes visitar mi repositorio prova aquí: [Ver Currículum de Mayka](curriculum.md)
+
 
