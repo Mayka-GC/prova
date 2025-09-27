@@ -53,7 +53,7 @@ Me gusta trabajar en `equipo` y tengo `don de gentes`.
 
 ## Proyectos:
 
-- [Documento en GitHub](https://github.com/Mayka-GC/markdown.git)   
+- [Documento en GitHub](https://github.com/Mayka-GC/markdown/blob/main/docs/index.md)   
 
 ---
 
