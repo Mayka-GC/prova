@@ -1,4 +1,4 @@
-### Currículum Vitae
+# Currículum Vitae
 
 ![Foto Mayka](Curriculum_Mayka.png)
 
