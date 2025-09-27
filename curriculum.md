@@ -53,7 +53,7 @@ Me gusta trabajar en `equipo` y tengo `don de gentes`.
 
 ## Proyectos:
 
-- [Mi web en Ciberseguridad](https://github.com/Mayka-GC/prova/blob/main/curriculum.md)   
+- [Mi web en Ciberseguridad](https://github.com/Mayka-GC/prova/blob/main/index.md)   
 
 ---
 
