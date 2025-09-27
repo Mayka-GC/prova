@@ -34,7 +34,7 @@ Me gusta trabajar en `equipo` y tengo `don de gentes`.
 
 ## Experiencia laboral:
 
-- 2027 - 2029: Técnico en ciberseguridad en Eset, Ontiniente [Página de Esset](https://www.eset.com/es/)
+- 2027 - 2029: Técnico en ciberseguridad en Eset, Ontiniente [Página de Eset](https://www.eset.com/es/)
 
 - 2026 - 2027: Soporte técnico en Mancomunitat de Alzira [Página de la Mancomunitat](https://manra.org/) 
 
